@@ -1,6 +1,6 @@
 # House Finder
 
-So there are two larger sites that publishes houses here in Sweden. This to of course not cover the real estate agents internal lists, but this should cover most of the objects in the market.
+So there are two larger sites that publishes houses here in Sweden. This do of course not cover the real estate agents internal lists, but this should cover most of the objects in the market.
 
 ## Booli API
 
